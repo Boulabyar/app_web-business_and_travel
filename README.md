@@ -53,12 +53,16 @@ create event       |  modify/delete event
 
 consult travels       |  plan travel        
 :-------------------------:|:-------------------------:|
-![consulterTravels](https://user-images.githubusercontent.com/50002456/228246369-138428aa-321e-4f23-9410-5190f1b83b8d.jpg)|![affectEmploye](https://user-images.githubusercontent.com/50002456/228246578-9237006e-68df-4f4c-a4ac-ab20b4a13efe.jpg)
+![consulterTravels](https://user-images.githubusercontent.com/50002456/228246369-138428aa-321e-4f23-9410-5190f1b83b8d.jpg)|![planTravels](https://user-images.githubusercontent.com/50002456/228247989-8434b352-539a-4815-bde0-f0908c83c3ff.jpg)
 
 
-about us            
+assign employee to a travel       |  update/delete travel       
+:-------------------------:|:-------------------------:|
+![affectEmploye](https://user-images.githubusercontent.com/50002456/228248744-764ceb44-ff4d-4f4e-bf63-c7ac5f329baf.jpg)|![update-deleteTravel](https://user-images.githubusercontent.com/50002456/228248781-75b90157-23ca-4f81-b99a-4abc3db8c6d7.jpg)
+
+
+travelers list            
 :-------------------------:|
-![AboutUs](https://user-images.githubusercontent.com/50002456/227746473-d3e04044-f3ff-40eb-93d4-087cb068aa19.jpg)
-|
+![travelers list](https://user-images.githubusercontent.com/50002456/228250706-06c92c8a-d595-4f6c-820e-2aa97a59bc12.jpg)
 
 
