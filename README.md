@@ -16,14 +16,17 @@ sign-in               |  forget pswd
 ![sign-in](https://user-images.githubusercontent.com/50002456/228181994-e459a84c-f5f6-436f-8a19-4653984bc60c.jpg)|![forget pswd](https://user-images.githubusercontent.com/50002456/228182144-a26f9204-3bfd-4ed3-ab4f-20cceec2c405.jpg)
 
 
-item description page                 | forget pswd       
+response_invitation                | accept invite       
 :-------------------------:|:-------------------------:|
-|
+![response_invitation](https://user-images.githubusercontent.com/50002456/228236382-8acf5a84-89b2-4675-bca7-7d1c13ff034e.jpg)
+|![accepted_invitation](https://user-images.githubusercontent.com/50002456/228230997-db05cc9d-729e-44a0-ad6f-cfb946c1bcff.jpg)
 
 
-cart         |  checkout              
+home         |  search Profil              
 :-------------------------:|:-------------------------:|
-![cart](https://user-images.githubusercontent.com/50002456/147712611-cbb50eca-ccc9-41d0-9333-0422f92fdb24.png)|![checkout](https://user-images.githubusercontent.com/50002456/147712617-32ed1ec8-3855-4a6f-8295-fec4d6358468.png)
+![home company](https://user-images.githubusercontent.com/50002456/228236785-50ba2cf4-d4c8-4ccc-833b-f8adb35b29f0.jpg)
+|![search Profil](https://user-images.githubusercontent.com/50002456/228236920-8be24f24-9f22-49a3-bf8b-ed3480d54f2e.jpg)
+
 
 checkout fields check         |  contact         
 :-------------------------:|:-------------------------:|
