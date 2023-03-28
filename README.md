@@ -6,19 +6,21 @@ REST APIs, DB `SQL`.
 
 ## Screenshots
 
-sign-up-Employee               |  sign-up-Entreprise               
+sign-up-Employee               |  sign-up-company              
 :-------------------------:|:-------------------------:|
 ![sign-up-Empl](https://user-images.githubusercontent.com/50002456/228180751-6f19ee8b-02a3-497e-840e-d46ba2049b77.jpg?raw=true)|![sign-up-Entrp](https://user-images.githubusercontent.com/50002456/228180913-a1d4dcfd-07b7-4623-a64a-922ef43b9015.jpg)
 
 
-list books         |  list books By criteria      
+sign-in         |  forget pswd     
 :-------------------------:|:-------------------------:|
-![list books](https://user-images.githubusercontent.com/50002456/147712574-3c873547-507e-4825-b530-5445054ae564.png)|![list books by criteria](https://user-images.githubusercontent.com/50002456/227746054-f54df00c-b7a8-49a6-9ca6-67ab353c54ed.jpg)
+![sign-in](https://user-images.githubusercontent.com/50002456/228181994-e459a84c-f5f6-436f-8a19-4653984bc60c.jpg)
+|![forget pswd](https://user-images.githubusercontent.com/50002456/228182144-a26f9204-3bfd-4ed3-ab4f-20cceec2c405.jpg)
 
 
-item description page                 | cart bubble       
+
+item description page                 | forget pswd       
 :-------------------------:|:-------------------------:|
-![item description page](https://user-images.githubusercontent.com/50002456/147712594-f2534f54-d2d9-4118-b5c6-875a2d11daac.png)|![panier bulle](https://user-images.githubusercontent.com/50002456/227746406-577f084f-4bd0-44ae-b242-789d2aae4a9c.jpg)
+|
 
 
 cart         |  checkout              
