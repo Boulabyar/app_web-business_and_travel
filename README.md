@@ -18,14 +18,12 @@ sign-in               |  forget pswd
 
 response_invitation                | accept invite       
 :-------------------------:|:-------------------------:|
-![response_invitation](https://user-images.githubusercontent.com/50002456/228236382-8acf5a84-89b2-4675-bca7-7d1c13ff034e.jpg)
-|![accepted_invitation](https://user-images.githubusercontent.com/50002456/228230997-db05cc9d-729e-44a0-ad6f-cfb946c1bcff.jpg)
+![response_invitation](https://user-images.githubusercontent.com/50002456/228236382-8acf5a84-89b2-4675-bca7-7d1c13ff034e.jpg)|![accepted_invitation](https://user-images.githubusercontent.com/50002456/228230997-db05cc9d-729e-44a0-ad6f-cfb946c1bcff.jpg)
 
 
 home         |  search Profil              
 :-------------------------:|:-------------------------:|
-![home company](https://user-images.githubusercontent.com/50002456/228236785-50ba2cf4-d4c8-4ccc-833b-f8adb35b29f0.jpg)
-|![search Profil](https://user-images.githubusercontent.com/50002456/228236920-8be24f24-9f22-49a3-bf8b-ed3480d54f2e.jpg)
+![home company](https://user-images.githubusercontent.com/50002456/228236785-50ba2cf4-d4c8-4ccc-833b-f8adb35b29f0.jpg)|![search Profil](https://user-images.githubusercontent.com/50002456/228236920-8be24f24-9f22-49a3-bf8b-ed3480d54f2e.jpg)
 
 
 checkout fields check         |  contact         
