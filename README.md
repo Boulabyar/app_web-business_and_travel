@@ -11,11 +11,9 @@ sign-up-Employee               |  sign-up-company
 ![sign-up-Empl](https://user-images.githubusercontent.com/50002456/228180751-6f19ee8b-02a3-497e-840e-d46ba2049b77.jpg?raw=true)|![sign-up-Entrp](https://user-images.githubusercontent.com/50002456/228180913-a1d4dcfd-07b7-4623-a64a-922ef43b9015.jpg)
 
 
-sign-in         |  forget pswd     
+sign-in               |  forget pswd              
 :-------------------------:|:-------------------------:|
-![sign-in](https://user-images.githubusercontent.com/50002456/228181994-e459a84c-f5f6-436f-8a19-4653984bc60c.jpg)
-|![forget pswd](https://user-images.githubusercontent.com/50002456/228182144-a26f9204-3bfd-4ed3-ab4f-20cceec2c405.jpg)
-
+![sign-in](https://user-images.githubusercontent.com/50002456/228181994-e459a84c-f5f6-436f-8a19-4653984bc60c.jpg)|![forget pswd](https://user-images.githubusercontent.com/50002456/228182144-a26f9204-3bfd-4ed3-ab4f-20cceec2c405.jpg)
 
 
 item description page                 | forget pswd       
