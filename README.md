@@ -26,9 +26,35 @@ home         |  search Profil
 ![home company](https://user-images.githubusercontent.com/50002456/228236785-50ba2cf4-d4c8-4ccc-833b-f8adb35b29f0.jpg)|![search Profil](https://user-images.githubusercontent.com/50002456/228236920-8be24f24-9f22-49a3-bf8b-ed3480d54f2e.jpg)
 
 
-checkout fields check         |  contact         
+invitations        |  add invitation         
 :-------------------------:|:-------------------------:|
-![confirmation_commande](https://user-images.githubusercontent.com/50002456/227746586-b4f39e26-eaea-4c45-be0d-6d7eaa03f797.jpg)|![contact](https://user-images.githubusercontent.com/50002456/147712632-2529c519-a923-4693-b27a-1cd3561c509e.png)
+![invitations](https://user-images.githubusercontent.com/50002456/228237996-9464401d-7a3b-4823-91c2-db66f3caad32.jpg)|![add invitation](https://user-images.githubusercontent.com/50002456/228238023-f7d3a762-85cf-4392-acdf-b52b5ad1e2c5.jpg)
+
+
+company profile        |  list of employees        
+:-------------------------:|:-------------------------:|
+![profil entreprise](https://user-images.githubusercontent.com/50002456/228243678-a1df4994-11e1-4d19-b0fb-7fa5c17f4b2d.jpg)|![listEmployes](https://user-images.githubusercontent.com/50002456/228243747-2734f5a2-5ee0-4d38-8d80-6d74e5508bae.jpg)
+
+
+employee profile        |  edit profile        
+:-------------------------:|:-------------------------:|
+![profil employee](https://user-images.githubusercontent.com/50002456/228244332-390d1579-e288-4be9-a43b-401f9f6b1834.jpg)|![modifier profil](https://user-images.githubusercontent.com/50002456/228244390-43d13059-2346-4066-a00e-32aa66449786.jpg)
+
+
+add post to auther profil       |  consult vents        
+:-------------------------:|:-------------------------:|
+![add post to auther profil](https://user-images.githubusercontent.com/50002456/228244876-c25ac90e-beca-45d5-969b-e6c03d86650b.jpg)|![consulter events](https://user-images.githubusercontent.com/50002456/228245289-bfbed32d-34e3-4305-910b-96ab2e7a1d99.jpg)
+
+
+create event       |  modify/delete event        
+:-------------------------:|:-------------------------:|
+![createEvent](https://user-images.githubusercontent.com/50002456/228245759-06b75385-3fda-4b4d-9ee6-55a5f8b9afb5.jpg)|![modify-deleteEvet](https://user-images.githubusercontent.com/50002456/228246027-39d65c40-a2ae-4472-b6a7-ae89a0a37663.jpg)
+
+
+consult travels       |  plan travel        
+:-------------------------:|:-------------------------:|
+![consulterTravels](https://user-images.githubusercontent.com/50002456/228246369-138428aa-321e-4f23-9410-5190f1b83b8d.jpg)|![affectEmploye](https://user-images.githubusercontent.com/50002456/228246578-9237006e-68df-4f4c-a4ac-ab20b4a13efe.jpg)
+
 
 about us            
 :-------------------------:|
