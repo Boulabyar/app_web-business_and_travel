@@ -3,8 +3,7 @@ make with the two Frameworks SpringBoot and Angular.
 REST APIs, DB `SQL`.
 
 ## Created by: Boulabiar Majdi
-### Source code is private
-### Contact me to get it
+### Source code is private Contact me to get it
 
 ## Screenshots
 
